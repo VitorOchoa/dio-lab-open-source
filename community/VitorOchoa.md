@@ -2,7 +2,9 @@
 
 ### &#x1F50D; Encontre-me
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorochoa/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?st>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorochoa/) 
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?st>)](https://instagram.com/vitu_ochoa)
 
 
 ### &#128100; Sobre mim
